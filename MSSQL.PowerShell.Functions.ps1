@@ -1,3 +1,5 @@
+<# Comment #>
+
 function Get-SqlConnectionString
 {
 	[OutputType([string])]
