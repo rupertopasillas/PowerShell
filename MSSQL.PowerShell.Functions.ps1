@@ -1,4 +1,4 @@
-<# Comment #>
+<# what the heck #>
 
 function Get-SqlConnectionString
 {
